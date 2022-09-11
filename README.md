@@ -1,1 +1,2 @@
-# rsschool-cv
+
+https://github.com/kankordkoks/rsschool-cv
